@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-//this was a test 
+//this was a test
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
